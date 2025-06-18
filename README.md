@@ -18,7 +18,7 @@ This is a simple Password Generator made using HTML, CSS, and JavaScript. You ca
 
 ## Live Demo
 
-[Click here to view the project](https://vercel.com/krishna1234-codes-projects/random-password-generator)
+[Click here to view the project](https://random-password-generator-eta-ruby.vercel.app/)
 
 ## How to Use
 
@@ -29,8 +29,8 @@ This is a simple Password Generator made using HTML, CSS, and JavaScript. You ca
 
 ## Screenshot
 
-![App Screenshot](screenshot1.png)
-![App Screenshot](screenshot2.png)
+1. Screenshot1.png
+2. Screenshot2.png
 
 ## Feedback
 
